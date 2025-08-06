@@ -17,7 +17,7 @@ This script demonstrates 7 fundamental list operations:
 ## How to Run
 
 ```bash
-python list_operations.py
+python mylist.py
 ```
 
 ## Expected Output
